@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\default.gpr
+20230412192154 2c2223d1208fdac54b2ae7564794d8b3
+[BOUND OBJECT FILES]
+C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\obj\
+-LC:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

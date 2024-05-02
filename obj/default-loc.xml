@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 31" line=" 31" >
+      <vfs_project>D:\adaLab\LR2+\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file>D:\adaLab\LR2+\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 86" >
+      <vfs_project>D:\adaLab\LR2+\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file>D:\adaLab\LR2+\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\adaLab\LR2+\Thread_ada2_git\default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5" >
+      <vfs_project>D:\adaLab\LR2+\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file>D:\adaLab\LR2+\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 9" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\adaLab\LR2+\Thread_ada2_git\default.gpr</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\default.gpr</vfs_file>
+    <file_marker column=" 47" line=" 8">
+      <vfs_project >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 18" line=" 77">
+      <vfs_project >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file >C:\3.2\Paralelni OP (e) (24)\LR2\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\3.2\Paralelni OP (e) (12)\LR2!!!\Thread_ada2_git\default.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\3.2\Paralelni OP (e) (12)\LR2!!!\Thread_ada2_git\default.gpr</vfs_project>
+      <vfs_file >C:\3.2\Paralelni OP (e) (12)\LR2!!!\Thread_ada2_git\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
